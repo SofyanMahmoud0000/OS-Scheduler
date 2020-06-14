@@ -55,6 +55,3 @@ If you have any questions on how to use this scheduler, or have ideas for future
 
 ## Authors 
 [Sofyan Mahmoud](https://github.com/sofyanmahmoud0000) - Computer engineer
-
-## Licence 
-MIT
